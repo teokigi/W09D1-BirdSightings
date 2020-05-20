@@ -1,6 +1,6 @@
 # Bird Sightings
 
-Bird Sightings is a full stack JavaScript application with an Express server and MongoDB database.
+Bird Sightings is a full stack JavaScript application with an Express js server and MongoDB database.
 
 ## Getting Started
 
